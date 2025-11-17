@@ -3,7 +3,7 @@ mysql:
   storage: 5Gi
   rootPassword: root
   database: ecommerce
-
+#2300032798
 backend:
   image: Chaitanya2300032798/ecommerce-backend1:v1
   replicas: 2
