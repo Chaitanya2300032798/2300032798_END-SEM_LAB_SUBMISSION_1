@@ -1,6 +1,5 @@
 apiVersion: v2
-name: ecommerce
-description: A Helm chart for ecommerce fullstack (MySQL + Backend + Frontend)
+name: hospital-management
+description: Fullstack hospital management system using Helm
+version: 1.0.0
 type: application
-version: 0.1.0
-appVersion: "1.0"
